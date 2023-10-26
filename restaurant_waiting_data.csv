@@ -1,0 +1,13 @@
+Alt,Bar,Hun,Price,Rain,Res,Est,ans
+Y,N,Y,$$$,N,Y,0-10,Y
+Y,N,Y,$,$,N,30-60,N
+N,Y,N,$,N,N,0-10,Y
+Y,N,Y,$,Y,N,10-30,Y
+Y,N,N,$$$,N,Y,>60,N
+N,Y,Y,$$,Y,Y,0-10,Y
+N,Y,N,$,Y,N,0-10,N
+N,N,N,$$,Y,Y,0-10,Y
+N,Y,Y,$,Y,Y,>60,N
+Y,Y,Y,$$$,N,Y,10-30,N
+N,N,N,$,N,N,0-10,N
+Y,Y,Y,$,N,N,0-10,Y
